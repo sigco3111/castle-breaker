@@ -3,7 +3,9 @@
 
 "캐슬 브레이커"는 플레이어가 발사체를 사용하여 블록으로 만들어진 건물과 황금 블록을 무너뜨리는 3D 물리 기반 게임입니다. 사용자가 직접 레벨 디자인을 할 수 있는 툴을 제공하며, Gemini API를 활용한 AI 레벨 생성 기능도 포함하고 있습니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/castle-breaker/
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 GitHub Pages로 이관되었습니다 (2026-08). 과거 Vercel alias는 더 이상 유효하지 않으므로 위 Pages URL을 사용해 주세요.
 
 ## 목차
 
